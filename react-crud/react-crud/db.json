@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "5b31",
+      "name": "Anand Phadnis",
+      "email": "phadnisanand@gmail.com",
+      "mobile": "07600785824"
+    },
+    {
+      "id": "47e6",
+      "name": "Gourav",
+      "email": "gurav1233@gmail.com",
+      "mobile": "255363636"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background: #f8f8f8;
+}
+
+.todo-item{
+  border-radius: 10px;
+  background-color: #f7f7f7;
+}
+
+.todo-item span{
+  font-size: 18px;
+}
+.todo-item.complete span{
+  text-decoration: line-through;
+}
+.todo-item .checkbox{
+  margin-top: 6px;
+  margin-right: 7px;
+}
+.todo-item input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+}
